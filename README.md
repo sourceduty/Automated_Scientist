@@ -3,12 +3,14 @@
 > Develop customizable and automated scientist programs that hypothesize, simulate and expand knowledge.
 #
 
-[Automated Scientist](https://chatgpt.com/g/g-nyjcFItZq-automated-scientist)  is designed to support scientific research by guiding users through a structured, iterative process of hypothesis generation, simulation, analysis, and refinement. It enables researchers to explore complex scientific questions by helping them formulate hypotheses, design simulations, and analyze outcomes, following an approach inspired by the scientific method. The goal is to systematically expand knowledge in various scientific domains while offering adaptive support based on user needs and findings. Through its interactive design, Automated Scientist empowers users to tackle both theoretical and practical research questions with efficiency and depth.
+Introducing the world's first automated research assistant programs designed to accelerate scientific research and work in any field - from medicine to materials science to astrophysics!
+
+[Automated Scientist](https://chatgpt.com/g/g-nyjcFItZq-automated-scientist) is designed to support scientific research by guiding users through a structured, iterative process of hypothesis generation, simulation, analysis, and refinement. It enables researchers to explore complex scientific questions by helping them formulate hypotheses, design simulations, and analyze outcomes, following an approach inspired by the scientific method. The goal is to systematically expand knowledge in various scientific domains while offering adaptive support based on user needs and findings. Through its interactive design, Automated Scientist empowers users to tackle both theoretical and practical research questions with efficiency and depth.
 
 At each stage, Automated Scientist provides tailored assistance to keep the research process organized and productive. By focusing on hypothesis refinement, simulation setup, and result interpretation, it allows users to make informed adjustments that lead to progressively more precise insights. The GPT emphasizes data integrity and relevance, recommending parameters and models that best fit the research question. Through continuous feedback loops, it encourages users to refine their approach, fostering a deeper understanding of the scientific phenomena under investigation. This makes Automated Scientist an invaluable tool for users looking to conduct rigorous, data-driven research with clarity and structure.
 
 #
-### Framework 
+### Framework
 
 The Automated Scientist framework is designed to facilitate systematic scientific exploration, guiding users through a structured process of hypothesis generation, simulation design, data analysis, and iterative refinement. This framework aligns with the scientific method but integrates flexible automation and computational tools to expedite experimentation and deepen insights. The framework operates through four primary stages: Hypothesize, Simulate, Analyze, and Iterate, each of which builds upon the previous steps to progressively expand knowledge and enhance understanding of complex scientific questions.
 
