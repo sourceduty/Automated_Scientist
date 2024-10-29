@@ -23,6 +23,17 @@ In the Analyze phase, the framework synthesizes the results of the simulations, 
 Finally, the Iterate phase invites users to refine their hypotheses based on the results obtained, adjusting parameters, modifying models, or exploring new questions that emerged during analysis. The framework is built to support continuous improvement, prompting users to revisit previous stages with updated hypotheses or models and fostering an adaptive, iterative approach to scientific discovery. By cycling through these stages, the Automated Scientist framework accelerates the research process, enabling users to explore complex scientific problems with precision and adaptability.
 
 #
+### Concept GUI
+
+![Automated Scientist](https://github.com/user-attachments/assets/c77ec21f-f2d6-4937-92e9-e56b9ee8418a)
+
+Thsi conceptual Automated Scientist program is a desktop application built using Python's Tkinter library. Its primary function is to support scientific workflows by integrating automated model-based processes. Users can load models in various formats (e.g., GPT-4All, PyTorch, ONNX) to engage in an iterative four-stage scientific process: hypothesis generation, simulation, result analysis, and hypothesis refinement. A unique aspect of the program is its template-based approach, where templates for each stage are loaded from a file (template.txt) and adapted to different inputs or hypotheses. The templates are version-controlled, allowing users to revert to earlier versions if needed.
+
+A user interface is set up to facilitate interactions. Users can select a model from a dropdown, input custom text for scientific prompts, and activate a terminal to execute commands directly within the application. The interface also provides options to configure the number of iterations for the scientific process, view log messages, and track progress with a status bar. The program is designed with automation in mind, logging each session's templates and model usage while also allowing customization and rollback capabilities to accommodate iterative improvements.
+
+The program's design makes it suitable for both interactive and automated scientific analysis. Through the terminal, users can modify templates, load models, and execute scientific commands without needing to leave the application interface. By combining these functionalities, the Automated Scientist program serves as a foundational tool for iterative scientific research, adaptable to various data and model configurations. Future improvements could focus on template enhancement and expanded automation to streamline workflows further.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
